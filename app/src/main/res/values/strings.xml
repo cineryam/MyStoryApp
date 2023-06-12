@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">MyStoryApp</string>
+    <string name="gotoRegister">Don\'t have account? Register now!</string>
+    <string name="email">E-mail</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="back">Back</string>
+    <string name="name">Name</string>
+    <string name="gotoLogin">Already have an account? Login now!</string>
+    <string name="logout">Logout</string>
+    <string name="add">Add Story</string>
+    <string name="upload">Upload</string>
+    <string name="description">Description</string>
+    <string name="gallery">Gallery</string>
+    <string name="camera">Camera</string>
+    <string name="setting">Setting</string>
+    <string name="password_too_short">Password is too short</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="maps">Maps</string>
+</resources>
