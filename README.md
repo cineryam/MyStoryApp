@@ -1,6 +1,8 @@
 # MyStoryApp
 Final Submission of Android Intermediate Application Development
 
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+
 ⚠️ **IMPORTANT: This is the final submission for the Android Intermediate Application Development project on Dicoding. Please do not plagiarize this code, but feel free to use it as a reference for your own implementation. Plagiarism is strictly against the integrity policy and can lead to penalties or disqualification.**
 
 ## Introduction
@@ -20,3 +22,6 @@ MyStoryApp is an application that allows users to share and discover stories bas
    
 4. **Testing**
    The app includes comprehensive unit tests for the ViewModel functions that retrieve paged data.
+
+### Contribution
+Contributions to the MyStoryApp project are welcome. If you find any issues or have suggestions for improvement, feel free to submit a pull request or open an issue.
