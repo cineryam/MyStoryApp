@@ -1,7 +1,7 @@
 # MyStoryApp
 Final Submission of Android Intermediate Application Development
 
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](/LICENSE)
 
 ⚠️ **IMPORTANT: This is the final submission for the Android Intermediate Application Development project on Dicoding. Please do not plagiarize this code, but feel free to use it as a reference for your own implementation. Plagiarism is strictly against the integrity policy and can lead to penalties or disqualification.**
 
